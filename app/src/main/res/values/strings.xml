@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Task Reminder</string>
+    <string name="sitya">Sign into your account</string>
+    <!--    <string name="hyperlink"><a href="">Forgot Username or Password?</a></string>-->
+    <string name="reset">Forgot Username or Password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome">WELCOME USER</string>
+    <string name="clock_in">Clock In</string>
+    <string name="clock_out">Clock Out</string>
+    <string name="report">Report</string>
+    <string name="schedule">Schedule</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log out</string>
+    <string name="title_infos">Fill Schedule Informations</string>
+    <string name="start_time">00:00</string>
+    <string name="reported_schedule">Reported Schedule</string>
+    <string name="schedule_list">Schedule List</string>
+    <string name="started_schedule">Started Schedule:</string>
+    <string name="save_schedule">Save</string>
+    <string name="empty">Empty</string>
+    <string name="no_started_schedule">No Started Schedule</string>
+    <string name="add">+</string>
+    <string name="schedule_to_report">Schedule to report</string>
+</resources>
